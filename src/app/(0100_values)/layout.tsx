@@ -8,7 +8,6 @@ import { CategoryLinks } from "@/app/components/nav-link/CategoryLinks";
 import { RootAccount } from "@/app/components/nav-link/RootAccounts";
 import { UserProfiles } from "@/app/components/nav-link/UserProfiles";
 import { List } from "@/app/components/nav-link/List";
-import Footer from "@/app/common/nav/footer";
 
 export const metadata: Metadata = {
   title: "Create Next App",
