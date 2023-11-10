@@ -1,3 +1,7 @@
+Next.jsのタブをLayout.tsxに実装しておくとページ遷移してもナビ部分がそのまま維持される。以前はナビもまとめて書いていたのでかなり書きやすくなっているのを理解できてなかった。(page.tsxの方に書いていた・・・)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
