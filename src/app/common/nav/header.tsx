@@ -7,7 +7,9 @@ export default function Header() {
       <Link href="/">VNS.BLUE</Link>
       <Link href="/">TOP</Link>
       <Link href="/">advertise</Link>
+      {/* 言語は２つ選べるようにする、自分の国と言語を覚えたい国のデータを表示 */}
       <Link href="/">Lang</Link>
+      <Link href="/">Auth</Link>
     </div>
   );
 }

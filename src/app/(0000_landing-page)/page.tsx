@@ -6,7 +6,7 @@ export default function Home() {
       VNS.BLUE TOP PAGE landing page
       <br />
       ランディングページ
-      <Link href="/root-account">valuesへ</Link>
+      <Link href="/0110_root-account">valuesへ</Link>
     </main>
   );
 }
